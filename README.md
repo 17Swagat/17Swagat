@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![17Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=17Swagat)](https://github.com/17Swagat/github-readme-stats)
+[![17Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=17Swagat&show_icons=true&theme=radical)](https://github.com/17Swagat/github-readme-stats)
 <!--
 **17Swagat/17Swagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
