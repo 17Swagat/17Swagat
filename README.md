@@ -1,5 +1,9 @@
 ## Hi there 👋
+**Don't think the stats are accurate and gives up to date info :(**
+
 ![17Swagat's Stats](https://github-readme-stats.vercel.app/api?username=17Swagat&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![17Swagat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=17Swagat&theme=vue-dark&hide_border=true)
+![17Swagat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17Swagat&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- [![17Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=17Swagat&show_icons=true&theme=radical)](https://github.com/17Swagat/github-readme-stats) ->
 
