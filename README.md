@@ -1,5 +1,5 @@
 ## Hi there 👋
-![17Swagat's Stats](https://github-readme-stats.vercel.app/api?username=17Swagat&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![17Swagat's Stats](https://github-readme-stats.vercel.app/api?username=17Swagat&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- [![17Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=17Swagat&show_icons=true&theme=radical)](https://github.com/17Swagat/github-readme-stats) ->
 
